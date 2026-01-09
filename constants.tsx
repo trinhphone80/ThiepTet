@@ -63,7 +63,17 @@ export const CHARACTERS: SelectionOption[] = [
   { id: 'god_wealth', label: 'Ông Thần Tài', promptSnippet: 'Cute Chibi God of Wealth holding a medical kit and a gold ingot.' },
   { id: 'horse_2026', label: 'Chú Ngựa 2026', promptSnippet: 'Playful Chibi Horse with a golden mane, carrying medical equipment baskets.' },
   { id: 'lucky_cat', label: 'Mèo Chiêu Tài', promptSnippet: 'Lucky Maneki-neko cat wearing a doctor stethoscope and holding a red envelope.' },
-  { id: 'cute_child', label: 'Em Bé Chúc Tết', promptSnippet: 'A cute child in a traditional Ao Dai holding a first-aid kit and a blossom branch.' }
+  { id: 'cute_child', label: 'Em Bé Chúc Tết', promptSnippet: 'A cute child in a traditional Ao Dai holding a first-aid kit and a blossom branch.' },
+  { id: 'lion_dance', label: 'Lân Sư Hỷ Lạc', promptSnippet: 'A miniature Chibi Vietnamese lion dance character with a bright red head and big sparkling eyes.' },
+  { id: 'chibi_doctor', label: 'Bác Sĩ Tận Tâm', promptSnippet: 'A cute Chibi male doctor in a white coat wearing a traditional red scarf, holding a heart symbol.' },
+  { id: 'chibi_nurse', label: 'Y Tá Dịu Dàng', promptSnippet: 'A cute Chibi female nurse wearing a festive medical uniform and holding a golden syringe filled with stardust.' },
+  { id: 'baby_dragon', label: 'Rồng Con May Mắn', promptSnippet: 'A tiny, chubby golden dragon Chibi playing with medical pills like they are pearls.' },
+  { id: 'crane_health', label: 'Hạc Tiên Trường Thọ', promptSnippet: 'A stylized Chibi crane bird, symbol of health and longevity, wearing a tiny doctor hat.' },
+  { id: 'turtle_peace', label: 'Thần Rùa Bình An', promptSnippet: 'A cute Chibi turtle with a golden shell patterned with medical crosses, carrying a gift box.' },
+  { id: 'money_frog', label: 'Cóc Ngậm Tiền', promptSnippet: 'A fun Chibi three-legged money frog sitting on a pile of medical supplies and gold coins.' },
+  { id: 'phoenix_joy', label: 'Phượng Hoàng Lửa', promptSnippet: 'A vibrant Chibi phoenix with rainbow feathers spreading joy and health energy.' },
+  { id: 'rabbit_jade', label: 'Thỏ Ngọc Y Thuật', promptSnippet: 'A cute Chibi jade rabbit grinding medical herbs in a golden mortar.' },
+  { id: 'koi_fish', label: 'Cá Chép Vượt Vũ Môn', promptSnippet: 'A jumping golden koi fish Chibi wearing a stethoscope around its neck.' }
 ];
 
 export const VECTORS: SelectionOption[] = [
