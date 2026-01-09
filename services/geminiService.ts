@@ -14,7 +14,7 @@ export async function generateDesignImage(
     side: 'front' | 'back';
   }
 ): Promise<string> {
-  const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
+  const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
   
   const textToRender = options.customText || 'Chúc Mừng Năm Mới 2026';
 
