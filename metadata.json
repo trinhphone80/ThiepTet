@@ -1,0 +1,7 @@
+{
+  "name": "Đức Phương 2026 Lucky Money Designer",
+  "description": "A high-end visualization tool for designing 2026 Year of the Horse 'Bao Lì Xì' envelopes for Đức Phương Medical Equipment company, featuring AI-powered image generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
